@@ -1,4 +1,4 @@
-# Hackintosh-Dell-Inspiron-15-7572
+# Hackintosh Dell Inspiron 15 7572
 ### Generate your own SMBIOS, recommended MacBookPro16,4
 
 ![Dell Inspiron 15 7572](https://github.com/user-attachments/assets/990b6359-04f5-43b0-8c00-a2868cd09bba)
