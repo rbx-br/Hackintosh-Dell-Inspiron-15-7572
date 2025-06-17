@@ -59,7 +59,7 @@ HDMI
 
 iServices
 
-WiFi ***Using HeliPort App and itlwm.kext***
+WiFi ***(Using HeliPort App and itlwm.kext)***
 
 Bluetooth
 
