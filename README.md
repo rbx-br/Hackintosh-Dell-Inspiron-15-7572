@@ -67,4 +67,5 @@ Bluetooth
 
 NVIDIA GeForce MX150 ***(Disabled because it is incompatible with macOS)***
 #
-![Dell Inspiron 15 7572 Print](https://github.com/user-attachments/assets/7114cbab-41de-4dad-bb89-1928effd9600)
+![Dell 7572 screen](https://github.com/user-attachments/assets/53c64697-49d2-4b1c-bb9d-97aaa1cb3795)
+
