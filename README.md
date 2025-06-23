@@ -10,11 +10,11 @@ Intel® Core™ i5-8250U - Kaby Lake R
 
 Intel® Graphics UHD 620 - 4GB
 
-Nvidia GeForce MX150 4GB - ***Disabled***
+Nvidia® GeForce™ MX150 4GB - ***Disabled***
 
-Intel Wireless 7260 - *Replaced*
+Intel® Wireless 7260 - *Replaced*
 
-Realtek RTL8111 Gigabit Ethernet
+Realtek® RTL8111 Gigabit Ethernet
 
 Sunrise Point-LP High Definition Audio Controller - based on Realtek ALC256
 
@@ -39,7 +39,7 @@ Sunrise Point-LP High Definition Audio Controller - based on Realtek ALC256
 
 # ✅ Working
 
-Intel Graphics UHD 620 ***(Native Graphics Acceleration)***
+Intel® Graphics UHD 620 ***(Native Graphics Acceleration)***
 
 Sound
 
@@ -65,7 +65,7 @@ Bluetooth
 
 # ❌ Not working
 
-NVIDIA GeForce MX150 ***(Disabled because it is incompatible with macOS)***
+NVIDIA® GeForce™ MX150 ***(Disabled because it is incompatible with macOS)***
 #
 ![Dell 7572 screen](https://github.com/user-attachments/assets/53c64697-49d2-4b1c-bb9d-97aaa1cb3795)
 
