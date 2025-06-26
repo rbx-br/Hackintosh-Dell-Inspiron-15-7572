@@ -19,19 +19,19 @@ Realtek® RTL8111 Gigabit Ethernet
 Sunrise Point-LP High Definition Audio Controller - based on Realtek ALC256
 
 ## This EFI can boot
-![11](https://github.com/user-attachments/assets/add96347-e7e3-46ac-ac8d-1c72434e7a44) ***macOS Big Sur 11.7.10***
+![11](https://github.com/user-attachments/assets/492bf142-3e84-4bb3-9ff2-e6d08679e6a7) ***macOS Big Sur 11.7.10***
 
 
-![12](https://github.com/user-attachments/assets/60c761ef-7e99-4b7f-a6da-b11ddf1c8af3) ***macOS Monterey 12.7.6***
+![12](https://github.com/user-attachments/assets/8772e7c3-cf53-4849-9d5e-c489f8fd36ea) ***macOS Monterey 12.7.6***
 
 
-![13](https://github.com/user-attachments/assets/3b7f23da-3c5d-4906-b9cb-5228d66f1ad0) ***macOS Ventura 13.7.6***
+![13](https://github.com/user-attachments/assets/8a7caf06-b55b-4b15-a7c1-3756526d2404) ***macOS Ventura 13.7.6***
 
 
-![14](https://github.com/user-attachments/assets/83a3c216-8af2-400c-8914-d9f9bd1fb7df) ***macOS Sonoma 14.7.6***
+![14](https://github.com/user-attachments/assets/c0764b86-eb06-48f9-8934-67c5ffa7d377) ***macOS Sonoma 14.7.6***
 
 
-![15](https://github.com/user-attachments/assets/432a5c91-6c1b-4098-b58f-90c6f2ed9dc5) ***macOS Sequoia 15.5***
+![15](https://github.com/user-attachments/assets/9974bfe2-522c-408a-b045-0a17b377eb8d) ***macOS Sequoia 15.5***
 
 
 ![26](https://github.com/user-attachments/assets/e3f20b34-c05a-4dd7-a460-5680296a1919) ***macOS Tahoe 26.0 Beta 2***
