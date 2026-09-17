@@ -8,7 +8,7 @@ Intel® Core™ i5-8250U - Kaby Lake R
 
 16GB DDR4 2400MHz
 
-Intel® Graphics UHD 620 - 4GB ***(Change DeviceProperties > Add > PciRoot(0x0)/Pci(0x2,0x0) > framebuffer-unifiedmem to 00000080 on config.plist to 2GB)***
+Intel® Graphics UHD 620 - 4GB ***(For 2GB change DeviceProperties > Add > PciRoot(0x0)/Pci(0x2,0x0) > framebuffer-unifiedmem to 00000080 on config.plist)***
 
 Nvidia® GeForce™ MX150 4GB - ***Disabled***
 
